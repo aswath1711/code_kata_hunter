@@ -12,5 +12,5 @@ l1=[]
 for i in l:
   r=r*i
 for i in l:
-  l1.append(remd//i)
+  l1.append(r//i)
 print(*1l)
